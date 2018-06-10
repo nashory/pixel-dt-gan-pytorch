@@ -3,6 +3,7 @@
 *.tar
 *.tar.gz
 *.zip
+*.csv
 
 *.png
 *.jpg
@@ -12,7 +13,8 @@
 
 
 ./data
-./prepro
+./data/raw
+./data/prepro
 ./lookbook
 ./venv
 
